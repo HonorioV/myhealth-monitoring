@@ -1,0 +1,20 @@
+{
+  "name": "MyHealth \u2014 Personal Health Monitoring",
+  "short_name": "MyHealth",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8f8",
+  "theme_color": "#087e79",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
